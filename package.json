@@ -30,7 +30,7 @@
     "babel-loader": "^9.1.0",
     "css-loader": "^6.8.0",
     "electron": "^35.7.5",
-    "electron-builder": "^24.9.1",
+    "electron-builder": "^26.6.0",
     "file-loader": "^6.2.0",
     "style-loader": "^3.3.0",
     "webpack": "^5.89.0",
